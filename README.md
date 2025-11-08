@@ -1,34 +1,33 @@
-<!-- Banner/Header image (replace with your own image/link) -->
-<img src="https://your-banner-link-here" alt="banner"/>
+<!-- Banner/Header image (replace with your own banner or use an academic/tech-themed image) -->
+<img src="https://your-custom-banner-link-here" alt="banner"/>
 
-<h1 align="center">Namaste 🙏 I'm [Your Name]</h1>
+<h1 align="center">Hey 👋 I'm Othmane Errahmani</h1>
 <p align="center">
-I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry...
-<br>
-<i>(customize this intro with your own summary and focus areas)</i>
+Software Engineering Student @ ENSEM Casablanca | Data Analyst | AI & Cloud Developer<br>
+Focused on full-stack web development (React, Spring Boot, MySQL) and real-world AI solutions.
 </p>
 
 <!-- Profile views, stars, followers count badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="profile views"/>
-  <img src="https://img.shields.io/github/stars/your-github-username?style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/your-github-username?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=OTHMANEerrahmani" alt="profile views"/>
+  <img src="https://img.shields.io/github/stars/OTHMANEerrahmani?style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/OTHMANEerrahmani?style=flat-square"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on and developing my programming skills.
-- 💡 Experienced with: .NET, Python, SQL, AI, Machine Learning, Data Science, Automation, Blockchain.
-- 🎯 I only like perfection.
+- 🔭 Currently developing advanced programming and cloud skills through real-life projects and AI-powered apps.
+- 💡 Key skills: Python, Java, C++, SQL, React, Spring Boot, Data Science, Machine Learning, DevOps tools (Docker, CI/CD, Kubernetes), API integration.
+- ✔️ Passionate about: Academic excellence, automation, and sharing tech insights.
+- 🎯 Perfectionist mindset and always learning!
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://spotify.com/yourprofile"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
-  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white"></a>
+  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/othmane-errahmani"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://youtube.com/@othmanerahmani6123"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white"></a>
 </p>
 
 <img src="https://your-coding-illustration-link-here" align="right" width="350"/>
@@ -38,13 +37,13 @@ I'm currently pursuing a Bachelor's degree in Computer Science, actively working
 ## 📊 Github Status
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula" alt="stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" alt="langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OTHMANEerrahmani&show_icons=true&theme=dracula" alt="stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTHMANEerrahmani&layout=compact&theme=dracula" alt="langs"/>
 </p>
 
 ---
 
-## 💻 Languages & Tools I Have Placed My Hands On
+## 💻 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,mysql,figma,git,github,linux,net,ts,cs,keras,pytorch,scikit-learn,tensorflow,bash,vscode,matlab,r,sqlite,arduino" />
@@ -54,9 +53,9 @@ I'm currently pursuing a Bachelor's degree in Computer Science, actively working
 
 ## 📦 Best Repositories
 
-| Data-Science | Artificial-Intelligence |
+| Data-Science & AI Projects | Web & Cloud Engineering |
 | :---         | :---                   |
-| IBM Data Science course assignments and notes. <br> *(Jupyter Notebook)* | AI concepts, models, experiments: learning, keeping, intelligent systems. <br> *(Python)* |
+| Jupyter notebooks with clustering, PCA, data mining, and ML models. | Full-stack web apps with Spring Boot, React, and DevOps CI/CD demos. |
 
 ---
 
