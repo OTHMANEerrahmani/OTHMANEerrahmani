@@ -31,7 +31,6 @@ Passionate about building scalable cloud applications and automating the future!
       <h3>🌐 Connect with me</h3>
       <a href="mailto:othmane.errahmani2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
       <a href="https://linkedin.com/in/othmane-er-rahmani-455799261"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-      <a href="https://youtube.com/@othmanerahmani6123"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube"></a>
     </td>
     <td width="40%" align="center">
       <img src="https://github.com/OTHMANEerrahmani/OTHMANEerrahmani/blob/main/Designer.png" width="700"/>
@@ -115,6 +114,3 @@ Passionate about building scalable cloud applications and automating the future!
   Interested in collaboration, open-source projects, or professional networking? Reach out on <a href="https://linkedin.com/in/othmane-er-rahmani-455799261">LinkedIn</a>, or send an email!
 </p>
 
-
-<!-- Footer illustration/image (replace link) -->
-<img src="https://your-footer-link-here" width="100%"/>
