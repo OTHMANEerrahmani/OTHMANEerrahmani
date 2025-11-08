@@ -1,5 +1,6 @@
 <!-- Banner/Header image (replace with your own banner or use an academic/tech-themed image) -->
-<img src="https://your-custom-banner-link-here" alt="banner"/>
+<img src="https://github.com/OTHMANEerrahmani/OTHMANEerrahmani/blob/main/1.png?raw=true
+" alt="banner"/>
 
 <h1 align="center">Hey 👋 I'm Othmane Errahmani</h1>
 <p align="center">
